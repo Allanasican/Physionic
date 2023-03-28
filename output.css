@@ -789,6 +789,10 @@ body {
   background-image: url('./img/hero-cover.jpg');
 }
 
+.bg-\[url\(\'https\:\/\/raw\.githubusercontent\.com\/Allanasican\/Physionic\/master\/dist\/img\/hero-cover\.jpg\'\)\] {
+  background-image: url('https://raw.githubusercontent.com/Allanasican/Physionic/master/dist/img/hero-cover.jpg');
+}
+
 .bg-cover {
   background-size: cover;
 }
